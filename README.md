@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in developing new projects as a Backend Engineer with Node.js
-- 🌱 I’m currently working in smoothr.de
-- 📫 Text me in telegram if you want to reach me @sbogatko
+- 👀 I’m interested in building creative software projects at the intersection of engineering, music, and visuals
 
 <!---
 sbohatko/sbohatko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
